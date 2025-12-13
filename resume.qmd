@@ -1,86 +1,96 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Emma Ricks's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Emma Ricks
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="Emmalee.ricks134@gmail.com">Emmalee.ricks134@gmail.com</a>
+| <a href="http://www.linkedin.com/in/emma-ricks-0174b2311/">My Linkedin page</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### Bachelor's in Statistics | Emphasis: Statistical Science | Minor: Natural Reosurces
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**Sept. 2023 - Dec. 2027**
+**Rexburg, ID, U.S.A**
 
-- Sizar
+*Brigham Young University--Idaho*
 
-`1667 - death`
-__Trinity College, Cambridge__
+* Completed Applied linear regression
 
-- Fellow
+* Exceeded in Experimental Design
 
+* Used statistical simulation to evaluate model assumptions
 
+* Conducted hypothesis testing and confidence intervals with large datasets
 
-## Awards
+* Interpreted statistical output to support evidence-based decisions
 
-`2012`
-President, *Royal Society*, London, UK
+* Worked with biological data involving population and environmental metrics
 
-Associate, *French Academy of Science*, Paris, France
+* Completed projects involving model diagnostics and residual analysis
 
+## Plane Crashes Project
 
+**July 2025**
+**Rexburg, ID, U.S.A**
 
-## Publications
+*Brigham Young University--Idaho*
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+* Built a multiple logistic regression model
 
-### Journals
+* Identified key factors associated with plane crash likelihood
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+* Used AI tools to assist in data acquisition and exploratory research
 
-`1669`
-Lectiones opticæ.
+* Cleaned, organized, and analyzed aviation safety
 
-etc. etc. etc.
+* Developed interpretable model outputs including odds ratios and probabilities
 
-### Patents
+* Effective communication and statistical reasoning
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Experience
 
+### Teacher Aide
 
-## Occupation
+**Jan. 2025 - Present**
+**Rexburg, ID, U.S.A**
 
-`1600`
-__Royal Mint__, London
+*Math Department--Brigham Young University--Idaho*
 
-- Warden
-- Minted coins
+* Led class sessions and delivered instructional material when the professor was unavailable
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+* Graded assignments, projects, and research papers with consistent and detailed feedback
+
+* Supported instruction for courses in biostatistics, business statistics, and intermediate statistics
+
+* Provided academic support that improved student comprehension and course performance
+
+### Mathematics Tutor
+
+**Apr. 2025 - Present**
+**Rexburg, ID, U.S.A**
+
+*Math Department--Brigham Young University--Idaho*
+
+* Tutored 15-20 students weekly, improving their understanding of algebra and statistics
+
+* Tracked student progress using performance metrics and helped them reach their goals
+
+* Mentored and supported students struggling with qualitative subjects, resulting in increased test scores and confidence in math
+
+### Skills
+
+* R studio coding
+
+* SQL coding
+
+* Python coding
+
+* Excel
 
 
 
